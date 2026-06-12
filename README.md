@@ -25,7 +25,7 @@ The purpose of this repository is to:
 
 Computer Science student with interests in software development, problem solving, and cybersecurity.
 
-**LeetCode:** https://leetcode.com/u/SouravSingh72/
+**LeetCode:** https://leetcode.com/u/sourav-bugs/
 
 ## Note
 
